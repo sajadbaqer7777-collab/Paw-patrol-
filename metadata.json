@@ -1,0 +1,6 @@
+{
+  "name": "Paw Portal",
+  "description": "Kids rescue pup learning adventure featuring interactive mini-games, alphabet puzzles, counting challenges, and badge collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
